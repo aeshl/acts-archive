@@ -105,10 +105,6 @@ namespace LoveCompatibilityCalculator
             Console.WriteLine("\nPress any key to exit...");
             Console.ReadKey();
 
-            Console.WriteLine("Hello po, try lang.");
-
-
-
         }
     }
 }
