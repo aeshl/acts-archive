@@ -107,7 +107,6 @@ namespace LoveCompatibilityCalculator
 
             Console.WriteLine("Hello po, try lang.");
 
-            Console.WriteLine("This is a new feature added.");
 
 
         }
